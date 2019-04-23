@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+        
+        <!--
+         Optionally provide a time element for each waypoint. Xcode will interpolate movement
+         at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+         a time element, then Xcode will use a fixed rate of speed.
+         
+         Waypoints must be sorted by time in ascending order.
+         -->
+
+    <wpt lat="30.5312718" lon="114.3625985">
+        <name>Luojiashan Post Branch Bureau</name>
+        <desc>Luojiashan Post Branch Bureau, Bayi Rd, HongShan JieDao Kou ShangQuan, Hongshan Qu, Wuhan Shi, Hubei Sheng, China, 430072</desc>
+        <time>2018-11-22T12:00:14Z</time>
+    </wpt>
+    <wpt lat="30.5311184" lon="114.3625253">
+        <name>TP001</name>
+        <time>2018-11-22T12:00:40Z</time>
+    </wpt>
+    <wpt lat="30.53092" lon="114.36307">
+        <name>TP002</name>
+        <time>2018-11-22T12:01:10Z</time>
+    </wpt>
+    <wpt lat="30.53089" lon="114.36316">
+        <name>TP003</name>
+        <time>2018-11-22T12:01:50Z</time>
+    </wpt>
+    <wpt lat="30.53087" lon="114.36322">
+        <name>TP004</name>
+        <time>2018-11-22T12:02:30Z</time>
+    </wpt>
+    <wpt lat="30.53077" lon="114.36351">
+        <name>TP005</name>
+    </wpt>
+    <wpt lat="30.53042" lon="114.36456">
+        <name>TP006</name>
+    </wpt>
+    <wpt lat="30.5304234" lon="114.3645643">
+        <name>TP007</name>
+    </wpt>
+    <wpt lat="30.53051" lon="114.3645">
+        <name>TP008</name>
+    </wpt>
+    <wpt lat="30.53053" lon="114.36446">
+        <name>TP009</name>
+    </wpt>
+    <wpt lat="30.53093" lon="114.36328">
+        <name>TP010</name>
+    </wpt>
+    <wpt lat="30.5309313" lon="114.3632845">
+        <name>TP011</name>
+    </wpt>
+    <wpt lat="30.53089" lon="114.36323">
+        <name>TP012</name>
+    </wpt>
+    <wpt lat="30.53087" lon="114.36322">
+        <name>TP013</name>
+    </wpt>
+    <wpt lat="30.53086" lon="114.36321">
+        <name>TP014</name>
+    </wpt>
+    <wpt lat="30.53082" lon="114.36321">
+        <name>TP015</name>
+    </wpt>
+    <wpt lat="30.53078" lon="114.36323">
+        <name>TP016</name>
+    </wpt>
+    <wpt lat="30.530781" lon="114.3632308">
+        <name>TP017</name>
+    </wpt>
+    
+</gpx>
